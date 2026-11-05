@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-sales-progression-nuxt",
+  "capabilityKey": "liberusoftware/real-estate-sales-progression",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-real-estate-sales-progression-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/real-estate/nextjs/sales-progression.md",
+  "presentationPlan": "projects/real-estate/nuxt/sales-progression.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
